@@ -1,5 +1,7 @@
 # Single- and multi-agent persistent monitoring tasks solved by the evolution strategy method
 
+Green circles represent source locations, red squares represent targets, and blue cells represent environmental obstacles.
+
 ## 5 targets
 
 | instance | 1 agent                                                          | 2 agents                                                         | 3 agents                                                         |
